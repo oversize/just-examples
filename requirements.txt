@@ -1,1 +1,1 @@
-requests
+cdktf~=0.19
